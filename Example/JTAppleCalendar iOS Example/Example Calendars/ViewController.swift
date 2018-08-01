@@ -28,7 +28,7 @@ class ViewController: UIViewController {
     var hasStrictBoundaries = true
     let firstDayOfWeek: DaysOfWeek = .monday
     let disabledColor = UIColor.lightGray
-    let enabledColor = UIColor.blue
+    let enabledColor = UIColor.green
     let dateCellSize: CGFloat? = nil
     var monthSize: MonthSize? = nil
     var prepostHiddenValue = false
